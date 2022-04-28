@@ -10,6 +10,7 @@ package manejoclases;
  * @author reroes
  */
 public class Ejecutable {
+
     public static void main(String[] args) {
         Hospital hospital = new Hospital();
     }
